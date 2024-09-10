@@ -124,4 +124,21 @@ Answer 10
 No
 
 Answer 11
+Everything up-to-date
+
+Answer 12
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (3/3), 997 bytes | 124.00 KiB/s, done.
+From https://github.com/victoriapalo/git-lab
+   4b4bac2..930fb10  main       -> origin/main
+Updating 4b4bac2..930fb10
+Fast-forward
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+Answer 13
+.  ..  .git  .gitignore  README.md
 
